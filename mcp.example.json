@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "offerup": {
+      "command": "uv",
+      "args": ["--directory", "/home/ameb8/projects/offer-up-mcp", "run", "--locked", "offerup-mcp"]
+    }
+  }
+}
